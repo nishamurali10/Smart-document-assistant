@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+.env
+node_modules/
+logs/
+upload/
+uploads/
+uploaded_docs/
+uploaded_files/
+uploaded_pdfs/
+vectorstores/
+vector_db/
+vector_store/
+embed_cache/
+faiss_index/
+*.db
+*.pdf

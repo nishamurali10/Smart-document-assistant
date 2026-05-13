@@ -1,0 +1,21 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+
+# LangChain stack (latest stable as of Aug 2025)
+langchain==0.2.12
+langchain-core==0.2.43
+langchain-community==0.2.11
+langchain-huggingface==0.0.3
+
+faiss-cpu==1.8.0.post1
+PyPDF2==3.0.1
+
+# Make pydantic compatible with both FastAPI + LangChain
+pydantic==2.7.4
+
+huggingface-hub==0.23.2
+sentence-transformers==2.7.0
+
+# Optional
+numpy==1.26.4
